@@ -1,0 +1,25 @@
+/// colors
+/// main varible
+$primary-color: red;
+
+body {
+  color: $primary-color;
+  background: pink;
+}
+
+p {
+  color: green;
+}
+
+div {
+  padding: 100px;
+  margin:999px;
+}
+
+img {
+  margin-bottom: 10px;
+}
+// main style very important!
+span {
+
+}
